@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Domaine\Domaine.csproj" />
+    <ProjectReference Include="..\FootManager\FootManager.csproj" />
   </ItemGroup>
 
 </Project>
